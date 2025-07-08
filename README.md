@@ -1,3 +1,13 @@
+COMPANY:CODTECH IT SOLUTIONS<br/>
+NAME:DHANASRI SIRAMDASU<br/>
+INTERN ID:CT06DF2930<br/>
+DOMAIN:MACHINE LEARNING<br/>
+DURATION:6 WEEKSv
+MENTOR:NEELA SANTHOSH KUMAR<br/>
+
+INTRODUCTION:<br/>
+-----------------<br/>
+
 This project implements a decision tree classifier using Python and scikit-learn, applied to the Iris dataset for classification. The code demonstrates a complete machine learning pipeline, including data splitting, model training with a max depth of 3, prediction, and evaluation. It outputs model accuracy, feature importance, a visual tree representation (saved as decision_tree_plot.png), and sample predictions formatted for submission. This implementation highlights the effectiveness and interpretability of decision trees for classification tasks.
 
 OUTPUT:
